@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Outreach AI — AI-Powered Bulk Email Platform
 
 Upload an Excel/CSV file of contacts, generate personalized outreach emails with
@@ -117,3 +118,6 @@ Deferred from the full spec, in rough priority order:
 - Analytics dashboard (open/click/reply tracking, charts)
 - Deliverability tooling (SPF/DKIM/DMARC checks, bounce & unsubscribe handling)
 - Hybrid auto-send-by-category workflow
+=======
+# AutoMeta
+>>>>>>> fe0306103884f7d83583e058c8811c0dd7f54baa
